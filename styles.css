@@ -1,2 +1,21 @@
 
 /* Your CSS Code here. */
+.holder{
+	display:flex;
+}
+.item{
+	width:116px;
+	height:100px;
+}
+.item-1{
+	background:red;
+}
+.item-2{
+	background:blue;
+}
+.item-3{
+	background:yellow;
+}
+.item-4{
+	background:green;
+}
